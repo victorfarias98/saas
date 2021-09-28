@@ -110,7 +110,7 @@ return [
         'password'      => 'Senha',
         'password_hint' => 'Deixar vazio para manter o valor atual',
         'role'          => 'Função',
-        'user_role'     => 'Função do Utilizador',
+        'user_role'     => 'Função do Usuário',
     ],
 
     'settings' => [
@@ -336,7 +336,7 @@ return [
 
     // DataTable translations from: https://github.com/DataTables/Plugins/tree/master/i18n
     'datatable' => [
-        'sEmptyTable'     => 'Não há registos para apresentar',
+        'sEmptyTable'     => 'Não há registros para apresentar',
         'sInfo'           => 'Mostrando de _START_ até _END_ de _TOTAL_ registos',
         'sInfoEmpty'      => 'Mostrando de 0 até 0 de 0 registos',
         'sInfoFiltered'   => '(filtrado de _MAX_ registos no total)',

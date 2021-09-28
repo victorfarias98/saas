@@ -7,7 +7,7 @@ return [
 	],
 
 	'api' => [
-		'auth_token_expires' 	=> 60,
+		'auth_token_expires' 	=> 120,
 		'key_token_expires'		=> 1,
 	],
 
